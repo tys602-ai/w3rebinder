@@ -1,0 +1,1 @@
+<Var builder="Input" id="FastTravelAnywhere" displayName="ft_key" displayType="INPUTPC" actions="FastTravelAnywhere"/>
